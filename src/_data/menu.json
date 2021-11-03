@@ -1,10 +1,10 @@
 [
     {
-        "label": "About",
+        "label": "关于我About",
         "url": "/about"
     },
     {
-        "label": "Tag List",
+        "label": "标签列表Tag List",
         "url": "/tags"
     },
     {
